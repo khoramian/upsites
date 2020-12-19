@@ -3,7 +3,7 @@ from django.db import models
 
 class Websites(models.Model):
     """
-    Represents a website details
+    Represents a website
     """
     name = models.CharField(max_length=100)
     URL = models.URLField()

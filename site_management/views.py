@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from django.http import HttpResponse   # delete ///////////////////////////////////////////
+from django.http import HttpResponse   # delete //////////////////////////////////////////
 from site_management.models import Websites
 
 

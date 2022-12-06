@@ -1,2 +1,2 @@
 # upsites
-A Django web app to check websites accessibility.
+A Django web app to check selected websites accessibility.
